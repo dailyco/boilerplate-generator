@@ -1,0 +1,24 @@
+{
+  "name": "@dailyco/boilerplate-generator",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "bin": "./bin/run",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dailyco/boilerplate-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dailyco/boilerplate-generator/issues"
+  },
+  "homepage": "https://github.com/dailyco/boilerplate-generator#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.0"
+  }
+}
